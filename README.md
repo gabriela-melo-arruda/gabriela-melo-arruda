@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou a Gabriela
+## 👋 Olá, eu sou a Gabriela Melo
 
 Sou desenvolvedora de RPA com experiência em automação de processos corporativos, atuando desde a análise até a implementação, documentação e manutenção de soluções automatizadas.
 
