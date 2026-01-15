@@ -5,10 +5,10 @@ Sou desenvolvedora de RPA com experiência em automação de processos corporati
 ### 💼 Atuação
 - Automação de processos com Power Automate (Cloud e Desktop)
 - Desenvolvimento e manutenção de bots em Automation Anywhere
-- Integrações com sistemas corporativos (SAP, SharePoint e APIs)
+- Integrações com sistemas corporativos
 - Manipulação, validação e controle de dados com SQL
 - Documentação técnica de processos e automações (PDD e SDD)
-- Apoio a automações com VBA
+- Automações com VBA
 
 ### 🛠️ Tecnologias
 - Power Automate (Cloud & Desktop)
