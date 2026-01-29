@@ -1,31 +1,42 @@
 ## 👋 Olá, eu sou a Gabriela Melo
 
-Sou desenvolvedora de RPA com experiência em automação de processos corporativos, atuando desde a análise até a implementação, documentação e manutenção de soluções automatizadas.
+Sou **Analista de Automação / RPA Developer**, com atuação em projetos de automação **end-to-end**, desde o levantamento de requisitos até a entrega, documentação e sustentação das soluções.
 
-### 💼 Atuação
-- Automação de processos com Power Automate (Cloud e Desktop)
-- Desenvolvimento e manutenção de bots em Automation Anywhere
-- Integrações com sistemas corporativos
-- Manipulação, validação e controle de dados com SQL
-- Documentação técnica de processos e automações (PDD e SDD)
-- Automações com VBA
+Tenho experiência em ambientes corporativos, trabalhando com automações críticas focadas em **eficiência operacional, redução de erros e escalabilidade**.
 
-### 🛠️ Tecnologias
+---
+
+### 💼 O que eu faço
+- Desenvolvimento de automações RPA ponta a ponta
+- Análise e desenho de processos (AS-IS / TO-BE)
+- Integração entre sistemas corporativos
+- Sustentação e melhoria contínua de automações
+- Documentação técnica para governança e manutenção
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
 - Power Automate (Cloud & Desktop)
-- Automation Anywhere
+- Automation Anywhere 360
+- Integrações via APIs REST
 - SQL Server
-- APIs REST
 - SharePoint
 - VBA
 
-### 📄 Documentação
+---
+
+### 📄 Documentação & Governança
 - PDD (Process Design Document)
 - SDD (Solution Design Document)
 - Mapeamento de processos e regras de negócio
-- Documentação técnica para sustentação e evolução das automações
+- Documentação técnica para suporte, evolução e escalabilidade das automações
 
-### 📌 Objetivo
-Desenvolver soluções de automação eficientes, bem documentadas e escaláveis, contribuindo para a redução de esforço operacional e aumento da confiabilidade dos processos.
+---
+
+### 🚀 Objetivo
+Criar soluções de automação **robustas, bem documentadas e escaláveis**, contribuindo para a otimização de processos, ganho de produtividade e confiabilidade operacional.
+
+---
 
 ### 📫 Contato
 - LinkedIn: https://www.linkedin.com/in/gabrielameloa/
